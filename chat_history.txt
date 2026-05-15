@@ -1,0 +1,15 @@
+User: hello
+Bot: Hey!
+------------------------------
+User: how are you
+Bot: I am fine. Thanks for asking!
+------------------------------
+User: i wants to know something
+Bot: Sorry, I don't understand.
+------------------------------
+User: ai
+Bot: AI stands for Artificial Intelligence.
+------------------------------
+User: bye
+Bot: Goodbye! Have a nice day.
+------------------------------
